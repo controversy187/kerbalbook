@@ -17,3 +17,6 @@ As we progress, our astronauts (Kerbals), will do science. When they do science,
 
 ## What if there are mistackes?
 This is hosted on GitHub, so if I make a typo or you feel like I did a poor job explaining something, feel free to open a pull request with a correction and we can chat about it and make a fix!
+
+
+If you want to support this, feel free to [buy me a coffee](buymeacoffee.com/controversy187).
