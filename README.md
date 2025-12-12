@@ -1,6 +1,8 @@
 # The Kerbal Science Handbook
 A Step-by-Step Guide to Mastering the Solar System
 
+- [Chapter 1: The Tyranny of the Rocket Equation](chapters/01_rocket_equation.md)
+
 ## What is this?
 This is a guide to orbital mechanics, spaceflight, and astrophysics. It is also a practical walkthrough for *Kerbal Space Program*. The two go hand in hand. The main goal is to understand how our own planet, Earth, works. How does gravity consistently thwart our efforts to float around in the air? Why don't the planets in our Solar System ever collide with each other? Why don't things fall "up" in Australia (or Canada, for our Aussie-normal friends)? The goal of this guide is to help us all (myself included) understand how our solar system works. The way we'll be learning this, together, is by slowly working through the game Kerbal Space Program. This will sort of be our "lab" for the lessons that we'll be learning. Fortunately for us, this game has something of a structure to it, which allows us to build on our lessons as we go.
 
