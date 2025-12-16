@@ -86,7 +86,7 @@ Let's revisit our first mission objective.
 > **Why:** To prove that we can strike a vital blow against Gravity, and survive the engagement.
 
 Putting together the concepts we've learned about in this chapter, we can start to build a plan for accomplishing this mission. We know that that we will need:
-1. A rocket engine that will produce enough thrust to get our **thrust-to-weigh ratio** (TWR) above **1.0**.
+1. A rocket engine that will produce enough thrust to get our **thrust-to-weight ratio** (TWR) above **1.0**.
 2. A relatively high **specific impulse** ($I_{sp}$) to get us off the ground quickly, where gravity affects us the most
 3. A way to strap ourselves on top of this rocket, because what good is an adventure if you're not a _part_ of it?!
 4. A way to survive our adventure.
@@ -115,7 +115,7 @@ Drag that over to the assembly area. Now our Kerbal has a temporary base from wh
 
 Working backward, we need a way to get this Kerbal off the ground and going at the speed of sound. For that, we'll need an engine! Applying what we've learned in this chapter, we know that our TWR must be greater than 1.0. We also know that we'll want a pretty high specific impulse, since we're extremely close to the ground, where the gravity is the highest. Since we're not trying to get anywhere _specific_, we don't need a lot of control. Just a lot of force, fairly quickly. Additionally, our Kerbal's aren't extremely sophisticated (yet!), so we don't have many options to choose from. In fact, there's only one 1 engine!
 
-If you right-click on the RT-5 "Flea" Solid Fuel Booster, you can see some more details about it. Specifically, you can see that the Max Thrust at Sea Level (ASL) is 162.909 kilo Newtons (kN). That tells us the force that this engine will produce on our rocket. This is important! Additionally, you can see the Specific Impulse, labeled as Engine Isp. For this particular booster engine, the ($I_{sp}$) is 140 at sea level, and 165 in a vacuum. This is a good time to notice that this engine (and engines in general) tend to produce more thrust and do so more efficiently in a vaccuum than they do at sea level. This is due to the presence of a substance called "air".
+If you right-click on the RT-5 "Flea" Solid Fuel Booster, you can see some more details about it. Specifically, you can see that the Max Thrust at Sea Level (ASL) is 162.909 kilo Newtons (kN). That tells us the force that this engine will produce on our rocket. This is important! Additionally, you can see the Specific Impulse, labeled as Engine Isp. For this particular booster engine, the ($I_{sp}$) is 140 at sea level, and 165 in a vacuum. This is a good time to notice that this engine (and engines in general) tend to produce more thrust and do so more efficiently in a vacuum than they do at sea level. This is due to the presence of a substance called "air".
 
 While this "air" substance is normally quite helpful for activities such as breathing and whistling, the air tends to get in the way of rockets. The rockets have to push their way through the air, and that takes up some of the energy that we're putting into them. As we get higher, the air becomes less dense, so we can use more energy directly moving our rocket and less energy pushing air out of the way.
 
@@ -143,7 +143,7 @@ You should see a number (somewhere in the low to mid 700s) above the engine stag
 
 The Pilot.
 
-For this first flight, we'll be using Jebediah Kermin as our pilot. Click the crew icon at the top of the screen and make sure 'ol Jeb is in the Mk1 Command Pod. At this point, we're ready to hit the "Launch" button in the top right, so go ahead and do that!
+For this first flight, we'll be using Jebediah Kerman as our pilot. Click the crew icon at the top of the screen and make sure 'ol Jeb is in the Mk1 Command Pod. At this point, we're ready to hit the "Launch" button in the top right, so go ahead and do that!
 
 #### Mission Flight
 It's the big day! Our first launch! Now that we're at the launch pad, take a moment to marvel at our flea jumper, in all it's glory. 
